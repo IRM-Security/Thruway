@@ -49,7 +49,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/danagnostos/ratchet-transport.git"
+            "url": "https://github.com/IRM-Security/ratchet-transport.git"
         }
     ]
 }
