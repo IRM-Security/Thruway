@@ -45,7 +45,7 @@ class StateHandlerRegistry extends RouterModuleClient
      * @param string $realm
      * @param LoopInterface $loop
      */
-    public function __construct($realm, LoopInterface $loop = null)
+    public function __construct($realm, ?LoopInterface $loop = null)
     {
         $this->stateHandlerMap = new \SplObjectStorage();
 
